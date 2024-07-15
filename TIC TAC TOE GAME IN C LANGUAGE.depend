@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714427039 source:c:\users\ntlak\documents\c files\tic tac toe game in c language\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
